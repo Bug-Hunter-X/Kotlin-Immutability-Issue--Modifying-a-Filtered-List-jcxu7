@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Kotlin related to the immutability of collections.  The `bug.kt` file shows code that attempts to modify a filtered list, which does not affect the original list. The `bugSolution.kt` demonstrates how to achieve the desired modification using mutable lists or other techniques.
